@@ -7,7 +7,7 @@
 
 
 ![alt](https://raw.githubusercontent.com/suyaroff/krdmarket/master/page1-big.jpg)
-![alt](https://raw.githubusercontent.com/suyaroff/krdmarket/master/preview-big.jpg)
+
 
 
 
